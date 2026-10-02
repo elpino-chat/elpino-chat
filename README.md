@@ -10,7 +10,6 @@
 <h3 align="center">An AI support agent that learns your website<br>and runs customer support on autopilot.</h3>
 
 <p align="center">
-  <a href="https://elpino.chat/demo"><img alt="Try the demo" src="https://img.shields.io/badge/%E2%9C%A8_Try_the_demo-d6d2fd?style=for-the-badge&labelColor=11120f&color=d6d2fd"></a>
   <a href="https://elpino.chat"><img alt="Website" src="https://img.shields.io/badge/Website-elpino.chat-11120f?style=for-the-badge"></a>
   <a href="https://elpino.chat/docs"><img alt="Docs" src="https://img.shields.io/badge/Docs-read-11120f?style=for-the-badge"></a>
 </p>
@@ -30,8 +29,6 @@
 Customer support is full of the same questions: pricing, refunds, shipping, "where is my order?". They arrive at night, on weekends and on holidays, and they pull your team away from work that needs a person.
 
 Elpino reads your public website, learns your business, and answers those questions for you, inside a chat widget on your site. When it isn't sure, or when a question needs a human, it brings your team into the conversation with the full history attached.
-
-> **Try it now, with no signup:** enter your website at [elpino.chat/demo](https://elpino.chat/demo) and chat with an agent that has read your own pages.
 
 ## Table of contents
 
@@ -124,9 +121,8 @@ Every plan includes **unlimited seats**. See [elpino.chat/pricing](https://elpin
 
 ### Elpino Cloud (recommended)
 
-1. Open [elpino.chat/demo](https://elpino.chat/demo) to try it on your own site, with no signup.
-2. [Create your workspace](https://elpino.chat/signup). The Free plan needs no credit card.
-3. Add your site key to your pages:
+1. [Create your workspace](https://elpino.chat/signup). The Free plan needs no credit card.
+2. Add your site key to your pages:
 
 ```html
 <script src="https://cdn.elpino.chat/tag.js" data-site-key="YOUR_SITE_KEY" async></script>
